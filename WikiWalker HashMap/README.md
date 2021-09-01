@@ -1,4 +1,4 @@
-# lmu-cmsi281-fall2020-homework4
+# WikiWalker HashMap
 Taking a walk on the wiki side!
 
-** Brittany Steenbergen **
+**Solution skeleton provided by Dr. Andrew Forney and completed by me**
