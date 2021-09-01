@@ -1,4 +1,4 @@
-# lmu-cmsi281-fall2020-homework2
+# Forneymon LinkedList
 Forneymonagerie II - ElectricBoogaloomon
 
-**Brittany Steenbergen**
+**Solution skeleton provided by Dr. Andrew Forney and completed by me**
